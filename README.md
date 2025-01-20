@@ -1,5 +1,5 @@
 <div align = "center">
-<h1 align = "center" >Hi there, I am Alexander</h1>
+<h1 align = "center" >Hi there 👋, I am Alexander</h1> 
 </div>
 <img src = "https://mbblancabelzunce.com/wp-content/uploads/2024/05/360_F_419176802_9s4AoYMfzxDt3kaSYV55whCkTB76NsHN.jpg">
 
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-
