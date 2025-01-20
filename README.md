@@ -3,11 +3,26 @@
 </div>
 <img src = "https://mbblancabelzunce.com/wp-content/uploads/2024/05/360_F_419176802_9s4AoYMfzxDt3kaSYV55whCkTB76NsHN.jpg">
 
-<p align="center">
+<p align="left">
   <a href = "mailto:alexanci02@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@alexanci02"  /></a>
   <a href="https://linkedin.com/in/alexanci" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-  
 </p>
+
+## About me 😄
+
+- 🎓 Multimedia Engineering Student 
+- 🖥️ Full-Stack Developer
+- 📝 Few months of experience as Back-End developer
+- 💪 Ready for learn and work
+
+## Knowledge 👨🏻‍💻
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,mongodb,nodejs,c,cpp,java,python,unity,blender,androidstudio,kotlin,processing,&perline=5" />
+  </a>
+</p>
+<!-------------------------->
 <!--
 **alexanci05/alexanci05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
