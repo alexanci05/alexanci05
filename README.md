@@ -1,7 +1,7 @@
 <div align = "center">
 <h1 align = "center" >Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I am Alexander</h1> 
 </div>
-<img src = "https://mbblancabelzunce.com/wp-content/uploads/2024/05/360_F_419176802_9s4AoYMfzxDt3kaSYV55whCkTB76NsHN.jpg">
+
 
 <p align="left">
   <a href = "mailto:alexanci02@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@alexanci02"  /></a>
